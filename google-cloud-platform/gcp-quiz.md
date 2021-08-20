@@ -237,8 +237,10 @@ Note: Free trial doesn't have the organizations.
 
 - [ ] group
 - [ ] folder
-- [ ] project
+- [X] project
 - [ ] organization
+
+[reference link](https://cloud.google.com/container-optimized-os/docs/how-to/create-configure-instance)
 
 #### Q35. What is needed to access GCP APIs in your project?
 
